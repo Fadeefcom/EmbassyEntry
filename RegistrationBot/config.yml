@@ -1,0 +1,11 @@
+bot:
+  id: '28381'
+  sd: 'AC97BCEC'
+  ems: ''
+api:
+  base_url: 'riga.kdmid.ru'
+  full_path_url: 'default'
+logging:
+  path: '${file(./Logger/session.txt):PATH}'
+  image_path: 'C:\Users\Gleb\Downloads\Captcha\CodeImage.jpg'
+  image_ml_path: './Learning Gifs'
